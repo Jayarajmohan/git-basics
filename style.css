@@ -6,7 +6,8 @@
 .header {
     margin: 12px;
     padding: 12px;
-    border: 10px solid;
+    border: 10px solid #ccc;
+    color: #2268c4;
 }
 
 .container {
