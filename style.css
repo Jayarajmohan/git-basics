@@ -25,13 +25,16 @@
 
 .javascript {
     background-color: #fafa7b;
+    border: 10px solid #979706;
 
 }
 
 .git {
     background-color: #f37a7a;
+    border: 10px solid #9e0606;
 }
 
 .react {
     background-color: #7aed7a;
+    border: 10px solid #05a005;
 }
